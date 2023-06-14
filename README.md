@@ -1,34 +1,7 @@
 
-**Introduction**
+**Demo app**
 
-The Trading Economics API provides you with direct access to 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format. The API can be used to feed a custom developed application, a public website or just off-the-shelf software like Microsoft Excel.
-
-
-
-**Documentation**
-
-https://documentation.tradingeconomics.com/
-
-**GitHub Examples**
-
-https://github.com/tradingeconomics/tradingeconomics
-
-
-**Python Jupyter Notebooks**
-
-https://github.com/tradingeconomics/notebooks
-
-
-**Docker**
-
-https://hub.docker.com/u/tradingeconomics
-
-
-**Learn More**
-
-https://tradingeconomics.com/api/
-
-
-
-
+Navigate to folder nodejs/webapp.
+Start server with command node simpleapp.js
+Navigate to url http://localhost:3000/ and there will be line graph comparing Sweden's GDP data and Mexico's GDP data.
 
