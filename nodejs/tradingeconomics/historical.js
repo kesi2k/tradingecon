@@ -11,6 +11,8 @@ global.indicator = null;
 global.ticker = null;
 global.start_date = null;
 global.end_date = null;
+global.apikey = '10be2e4e3f254e7:u19huoeobb3l1s2';
+
 
 //This function builds the path to get the API request:
 /****************************************************************************************************************************  
